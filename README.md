@@ -5,6 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gosqo)](https://github.com/gosqo/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gosqo&layout=compact)](https://github.com/gosqo/github-readme-stats)
+<!-- <img src=images/nature.avif> -->
+<img src=images/pharrell.jpeg>
 #### Hi there 👋
 ---
 >asd
