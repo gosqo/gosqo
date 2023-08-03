@@ -8,7 +8,7 @@
 #### 반갑습니다. 👋
 ---
 <p>김현봉입니다. 개발을 꾸준히 잘 해보겠습니다. 화이팅 !</p>
-<p>[google](https://google.com)로 가볼까요?</p>
+<p>[google](https://google.com) 로 가볼까요?</p>
 
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=gosqo)](https://github.com/gosqo)
