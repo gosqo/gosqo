@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Hello%20human&fontSize=28)
 
-<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gosqo&layout=compact)](https://github.com/gosqo/github-readme-stats)</span>
-  </div>
 <!-- <img src=images/nature.avif> -->
 <img src=images/pharrell.jpeg>
 
