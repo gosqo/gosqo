@@ -1,6 +1,6 @@
 
 <!-- <img src=images/nature.avif> -->
-<img src=images/pharrell.jpeg>
+<img src=pharrell.png>
 
 #### 반갑습니다. 👋
 ---
