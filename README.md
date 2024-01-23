@@ -1,15 +1,4 @@
-<div><img src=/images/pharrell.png></div>
 
-### 반갑습니다. 👋
-
----
-
-김현봉입니다. 개발을 꾸준히 잘 해보겠습니다. 화이팅!
-<p>  
-  
-  [google.com](http://www.google.com)으로 가볼까요?
-  
-</p>
 
 
 <!--
